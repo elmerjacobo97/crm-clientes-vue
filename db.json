@@ -1,0 +1,24 @@
+{
+  "clients": [
+    {
+      "name": "Elmer Actualizado",
+      "lastname": "Jacobo",
+      "email": "ejacobotiniano@gmail.com",
+      "phone": "927 347 691",
+      "company": "codigoconelmer",
+      "position": "full stack developer",
+      "status": true,
+      "id": 1
+    },
+    {
+      "name": "Elmer",
+      "lastname": "Jacobo",
+      "email": "ejacobotiniano@gmail.com",
+      "phone": "927 347 691",
+      "company": "codigoconelmer",
+      "position": "full stack developer",
+      "status": 1,
+      "id": 2
+    }
+  ]
+}
